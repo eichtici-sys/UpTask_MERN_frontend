@@ -57,7 +57,7 @@ const Login = () => {
             className="uppercase text-gray-600 block text-xl font-bold"
             htmlFor="email"
           >
-            Email
+            Email: <span>for Test use example@example.com</span>
           </label>
           <input
             id="email"
@@ -73,7 +73,7 @@ const Login = () => {
             className="uppercase text-gray-600 block text-xl font-bold"
             htmlFor="password"
           >
-            Contraseña
+            Contraseña <span>for Test use contraseña</span>
           </label>
           <input
             id="password"
