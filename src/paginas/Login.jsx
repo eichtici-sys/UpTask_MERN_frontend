@@ -73,7 +73,7 @@ const Login = () => {
             className="uppercase text-gray-600 block text-xl font-bold"
             htmlFor="password"
           >
-            Contraseña <span>for Test use contraseña</span>
+            Contraseña <span className="font-light lowercase">for Test use contraseña</span>
           </label>
           <input
             id="password"
